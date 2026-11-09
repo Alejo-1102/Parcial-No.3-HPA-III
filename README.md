@@ -13,11 +13,8 @@
 ## Orden de las carpetas
 
 ```
-Parte Practica Parcial 3/
 ├── Problema1-Parcial 3/     (proyecto de consola, .sln y clases de las figuras)
 ├── Problema2-Parcial 3/     (proyecto de consola, .sln y Program.cs)
 └── Problema3-Parcial 3/     (proyecto Windows Forms, .sln, formularios y clases)
     └── BD/                  (scripts SQL de la base de datos)
 ```
-
-Cada problema es un proyecto independiente con su propio `.sln`.
