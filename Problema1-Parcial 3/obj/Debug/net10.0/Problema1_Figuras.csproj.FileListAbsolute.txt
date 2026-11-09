@@ -1,0 +1,15 @@
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema1-Parcial 3\bin\Debug\net10.0\Problema1_Figuras.exe
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema1-Parcial 3\bin\Debug\net10.0\Problema1_Figuras.deps.json
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema1-Parcial 3\bin\Debug\net10.0\Problema1_Figuras.runtimeconfig.json
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema1-Parcial 3\bin\Debug\net10.0\Problema1_Figuras.dll
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema1-Parcial 3\bin\Debug\net10.0\Problema1_Figuras.pdb
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema1-Parcial 3\obj\Debug\net10.0\Problema1_Figuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema1-Parcial 3\obj\Debug\net10.0\Problema1_Figuras.AssemblyInfoInputs.cache
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema1-Parcial 3\obj\Debug\net10.0\Problema1_Figuras.AssemblyInfo.cs
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema1-Parcial 3\obj\Debug\net10.0\Problema1_Figuras.csproj.CoreCompileInputs.cache
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema1-Parcial 3\obj\Debug\net10.0\Problema1_Figuras.dll
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema1-Parcial 3\obj\Debug\net10.0\refint\Problema1_Figuras.dll
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema1-Parcial 3\obj\Debug\net10.0\Problema1_Figuras.pdb
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema1-Parcial 3\obj\Debug\net10.0\Problema1_Figuras.genruntimeconfig.cache
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema1-Parcial 3\obj\Debug\net10.0\ref\Problema1_Figuras.dll
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema1-Parcial 3\obj\Debug\net10.0\Problema.9E23E42D.Up2Date
