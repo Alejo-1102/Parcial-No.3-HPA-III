@@ -1,0 +1,17 @@
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema2-Parcial 3\bin\Debug\net10.0\Problema2_Json.exe
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema2-Parcial 3\bin\Debug\net10.0\Problema2_Json.deps.json
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema2-Parcial 3\bin\Debug\net10.0\Problema2_Json.runtimeconfig.json
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema2-Parcial 3\bin\Debug\net10.0\Problema2_Json.dll
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema2-Parcial 3\bin\Debug\net10.0\Problema2_Json.pdb
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema2-Parcial 3\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema2-Parcial 3\obj\Debug\net10.0\Problema2_Json.csproj.AssemblyReference.cache
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema2-Parcial 3\obj\Debug\net10.0\Problema2_Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema2-Parcial 3\obj\Debug\net10.0\Problema2_Json.AssemblyInfoInputs.cache
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema2-Parcial 3\obj\Debug\net10.0\Problema2_Json.AssemblyInfo.cs
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema2-Parcial 3\obj\Debug\net10.0\Problema2_Json.csproj.CoreCompileInputs.cache
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema2-Parcial 3\obj\Debug\net10.0\Problema.0C626067.Up2Date
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema2-Parcial 3\obj\Debug\net10.0\Problema2_Json.dll
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema2-Parcial 3\obj\Debug\net10.0\refint\Problema2_Json.dll
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema2-Parcial 3\obj\Debug\net10.0\Problema2_Json.pdb
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema2-Parcial 3\obj\Debug\net10.0\Problema2_Json.genruntimeconfig.cache
+C:\Users\Aleja\Downloads\Parte Practica Parcial 3\Problema2-Parcial 3\obj\Debug\net10.0\ref\Problema2_Json.dll
